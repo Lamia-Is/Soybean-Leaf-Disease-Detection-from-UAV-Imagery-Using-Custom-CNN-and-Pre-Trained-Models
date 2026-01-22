@@ -4,7 +4,7 @@ This repository contains code, notebooks, and the paper for "Soybean Leaf Diseas
 
 Paper
 - PDF: ./paper/<your_paper_filename>.pdf
-- Direct download (raw): https://github.com/Lamia-Is/Soybean-Leaf-Disease-Detection-from-UAV-Imagery-Using-Custom-CNN-and-Pre-Trained-Models/raw/main/paper/<your_paper_filename>.pdf
+- Direct download (raw): [https://github.com/Lamia-Is/Soybean-Leaf-Disease-Detection-from-UAV-Imagery-Using-Custom-CNN-and-Pre-Trained-Models/raw/main/paper/<your_paper_filename>.pdf](https://github.com/Lamia-Is/Soybean-Leaf-Disease-Detection-from-UAV-Imagery-Using-Custom-CNN-and-Pre-Trained-Models.git)
 
 Notebooks
 - Example: ./notebooks/<your_notebook>.ipynb
